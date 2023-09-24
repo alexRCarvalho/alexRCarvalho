@@ -4,7 +4,7 @@
 
 Estou em uma jornada para me tornar profissional versátil, atualmente me desenvolvendo nas áreas de cientista de dados e desenvolvedor web com ênfase em back-end
 
-## Jornada Ciência de Dados e Desenvolvimento Web com Ênfase em Backend🌐
+## Jornada Ciência de Dados e Desenvolvimento Web com Ênfase em Backend 🌐
 
 - Proficiências:
     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="30"/> JavaScript ✅
