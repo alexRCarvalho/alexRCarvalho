@@ -1,64 +1,64 @@
-# Olá! Eu Sou o Alex Carvalho👋
-
+Olá! Eu Sou o Alex Carvalho👋
 <img src="https://static.myfigurecollection.net/upload/pictures/2023/09/06/3744063.gif" alt="GIF" width="500"/>
 
-Estou em uma jornada para me tornar profissional versátil, atualmente me desenvolvendo nas áreas de cientista de dados e desenvolvedor web com ênfase em back-end
+Sou Cientista de Dados em formação, apaixonado por transformar dados em insights estratégicos e soluções que apoiam a tomada de decisão. Atualmente, trabalho como Analista de Desenvolvimento na Giga+ Fibra e realizo projetos autônomos em Power BI para diferentes empresas.
 
-## Jornada Ciência de Dados e Desenvolvimento Web com Ênfase em Backend 🌐
+Estou cursando Ciência de Dados na Anhanguera, com foco em: SQL, Power BI, Excel Avançado, Modelagem de Dados e Machine Learning.
 
-- Proficiências:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="30"/> JavaScript ✅
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="30"/> HTML ✅
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="30"/> CSS
+🚀 Jornada em Ciência de Dados
+🔹 Análise e Visualização de Dados
 
-- Bibliotecas front-end:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="30"/> React
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="30"/> Vue.js
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="30"/> Excel Avançado ✅
 
-- Ferramentas de back-end:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30"/> Node.js
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="30"/> Express
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="30"/> Power BI ✅
 
-- Banco de dados:
-    - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdxTWjwN0cjiKVHlOrWqF3Nx8h1ZxUhZLpR2UHI5MABEn82hMUCOh3B4LefJaoxQFYCOs&usqp=CAU" alt="MySQL" width="30"/> MySQL
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="30"/> MongoDB
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" width="30"/> Spark (em aprendizado)
 
-## Cientista de Dados 📊
+🔹 Programação & Bancos de Dados
 
-- Análise de dados:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="30"/> Excel ✅
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="30"/> Power BI ✅
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" width="30"/> Spark
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> Python (aprendizado contínuo)
 
-- Matemática e Estatística
-    - Probabilidade e estatística ✅
-    - Álgebra Linear ✅
-    - Cálculo diferencial e integral ✅
-  
-- Visualização de dados:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="30"/> Excel ✅
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="30"/> Power BI 📖
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" width="30"/> Spark
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> SQL Avançado ✅
 
-- Aprendizado de máquina:
-    - Algoritmos de aprendizado de máquina
-    - Redes Neurais
-    - Árvores de Decisão
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" alt="R" width="30"/> R (em aprendizado)
 
-- Programação:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="30"/> Python 📖
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> SQL
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" alt="R" width="30"/> R
+Experiência com Databricks e Snowflake
 
-- Processamento e limpeza de dados:
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="30"/> Excel ✅
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="30"/> Power BI 📖
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" alt="Qlik View/Sense" width="30"/> Qlik View/Sense 
+🔹 Matemática e Estatística
 
-- Foco em resolução de problemas e insights baseados em dados ✅
+Probabilidade e Estatística ✅
 
-## Vamos Conectar via LinkedIn! 🌟
+Álgebra Linear ✅
 
-Estou sempre ansioso para me conectar com outros entusiastas de tecnologia, colaborar em projetos empolgantes e aprender uns com os outros. Sinta-se à vontade para entrar em contato e vamos conversar!
+Cálculo Diferencial e Integral ✅
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/alex-carvalho-27b35a106/)
+🔹 Machine Learning e Modelagem Preditiva
+
+Algoritmos de Aprendizado de Máquina
+
+Árvores de Decisão
+
+Redes Neurais (em estudo)
+
+🔹 Processamento e Limpeza de Dados
+
+Excel / Power Query ✅
+
+Power BI ✅
+
+Qlik Sense (noções)
+
+📊 Projetos de Destaque
+
+Canal Giga Embaixador (Giga+ Fibra): análises de vendas, inadimplência e performance de afiliados.
+
+Dashboards de Lojas Físicas (Giga+ Fibra): suporte à decisão estratégica sobre manutenção/fechamento de unidades.
+
+Projetos Autônomos em Power BI: dashboards de vendas e performance para pequenas e médias empresas.
+
+🌐 Vamos Conectar!
+
+Estou sempre aberto a trocar ideias sobre Ciência de Dados, Analytics e Machine Learning.
+Se quiser conversar ou colaborar em projetos, me chama no LinkedIn:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40"/>
