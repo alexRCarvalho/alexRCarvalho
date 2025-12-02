@@ -12,7 +12,6 @@ Atualmente curso **Ciência de Dados na Anhanguera**, com ênfase em:
 ## 🚀 Jornada em Ciência de Dados
 
 ### 🔹 Análise e Visualização de Dados
-### 🔹 Análise e Visualização de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="30"/> <strong>Excel Avançado</strong> ✅
   <br/>
